@@ -1,0 +1,6 @@
+# CROWhite Display: manifiesto de la actualizacion por WiFi
+proyecto=CROWhite_Display
+placa=waveshare-esp32p4-wifi6-touch-lcd-7b
+version=0.2.4
+desde=0.2.0
+archivo=CROWhite_Display.bin
